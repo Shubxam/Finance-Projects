@@ -11,3 +11,8 @@ where,
 - r = rate of interest (monthly)
 - PV = Present Value (loan amount)
 - n = no of installments
+
+## References
+- [Personal Finance with Python, Max Humber: Ch04-Amortize](https://www.amazon.in/Personal-Finance-Python-Requests-Recurrent/dp/148423801X)
+- [Investopedia: Amortized Loans](https://www.investopedia.com/terms/a/amortized_loan.asp)
+- [NumPy_Financial: pmt()](https://numpy.org/numpy-financial/latest/pmt.html#numpy_financial.pmt)
